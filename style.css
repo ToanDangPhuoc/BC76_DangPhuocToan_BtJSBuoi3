@@ -1,0 +1,8 @@
+img {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+}
+.nav-pills i {
+  margin-right: 10px;
+}
